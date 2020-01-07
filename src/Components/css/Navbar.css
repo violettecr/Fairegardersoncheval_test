@@ -1,0 +1,38 @@
+.sticky-top {
+  top: !important 56px;
+}
+#navbar,
+#homeNavbar{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+#navbar a {
+  color: black;
+}
+
+#navbar a:hover,
+#homeNavbar a:hover {
+  text-decoration: none;
+  color: #388654;
+}
+
+#navbar a,
+#homeNavbar a {
+  display: flex;
+  align-items: center;
+  margin:  0 6px 0 6px;
+  color: black;
+}
+
+
+#navLogo,
+#navMenu {
+  margin:  0 100px 0 100px;
+}
+
+#logo {
+  height: 25px;
+  margin-right: 15px;
+}

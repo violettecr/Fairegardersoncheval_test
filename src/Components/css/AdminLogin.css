@@ -1,0 +1,19 @@
+#adminLogin {
+  text-align: center;
+  margin-top: 2%;
+  min-height: calc(100vh - 230px);
+}
+#adminLogin .formulaire {
+  margin: 30%;
+  border: solid 3px lightgray;
+  padding: 80px;
+  border-radius: 2%;
+}
+#adminLogin .formulaire input {
+  border: solid 1px lightgrey;
+  width: 100%;
+}
+
+#adminLogin h1 {
+  margin: 50px;
+}

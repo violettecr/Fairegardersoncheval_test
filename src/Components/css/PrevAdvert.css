@@ -1,0 +1,8 @@
+#preAdvert {
+  min-height: calc(100vh - 180px);
+}
+
+.card{
+  color: rgb(255, 255, 255);
+  background-color: rgb(116, 164, 253) !important;
+}
